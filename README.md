@@ -24,8 +24,7 @@ int main() {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/b62860ed-8303-4cdf-a760-e10e20914c04)
-
+image.png
 
 
 
@@ -76,8 +75,7 @@ int main() {
 }
 ```
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/8e94b660-90d0-4617-97b2-d18ecd86b3e9)
-
+Screenshot 2025-05-02 105300.png
 
 
 
@@ -133,8 +131,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/47b084be-9550-43ad-96c6-04e55543ba38)
-
+Screenshot 2025-05-02 110445.png
 
 
 
@@ -182,8 +179,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-02 110723.png>)
-![alt text](image-1.png)
+Screenshot 2025-05-02 110723.png
+image-1.png
 
 
 
@@ -252,8 +249,7 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/573c1ab4-3584-40b7-8288-9589007fbe23)
-
+image-2.png
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
 
