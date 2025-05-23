@@ -179,8 +179,10 @@ int main() {
 }
 ```
 ## OUTPUT:
-Screenshot 2025-05-02 110723.png
-image-1.png
+![image](https://github.com/user-attachments/assets/d50bd295-77c8-44bc-a096-eb55870d6461)
+![image](https://github.com/user-attachments/assets/48e92a9d-9dd4-48e6-8474-af1351f1ed48)
+
+
 
 
 
